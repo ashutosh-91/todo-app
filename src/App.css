@@ -1,0 +1,27 @@
+.main-body{
+  text-align: center;
+  background-color: #2af7fe;
+  margin-top: 0.5px;
+  height:100vh;
+}
+
+.unordered {
+  border: 1px solid #ccc;
+  width: 500px;
+  margin: 0 auto;
+  margin-bottom: 15px;
+  background-color: #f1faee;
+  border-radius:20px;
+}
+.modal{
+  display: flex;
+  margin-top: 190px;
+  align-content: space-between;
+  align-items: center;
+  height: 20vh;
+  background-color:aliceblue
+}
+.modal input{
+  margin-left: 50px;
+  width: 500px;
+}
